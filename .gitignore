@@ -1,0 +1,43 @@
+# macOS system files
+*.DS_Store
+
+# Android/Gradle
+.gradle/
+local.properties
+/android/key.properties
+
+# iOS/Xcode
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+/ios/.symlinks/
+/ios/Runner.xcworkspace/
+/ios/build/
+/ios/.dart_tool/
+/ios/.generated/
+/ios/.xcconfig
+
+# Firebase or secrets (if applicable)
+google-services.json
+GoogleService-Info.plist
+
+# Web
+web/manifest.json
+web/favicon.png
+
+# Linux/Windows/macOS builds
+linux/
+windows/
+macos/
+
+# VS Code settings (optional)
+.vscode/
+
+# Fastlane (if you use it for deployment)
+/fastlane/report.xml
+/fastlane/screenshots/
+/fastlane/test_output/
+
+# Coverage
+coverage/
+

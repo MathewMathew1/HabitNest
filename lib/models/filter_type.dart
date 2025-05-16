@@ -1,0 +1,1 @@
+enum HabitFilterType { all, good, bad }
