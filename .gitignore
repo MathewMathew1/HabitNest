@@ -6,6 +6,8 @@
 local.properties
 /android/key.properties
 
+.dart_tool
+
 # iOS/Xcode
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
@@ -40,4 +42,10 @@ macos/
 
 # Coverage
 coverage/
+
+**/shared_proto_db/
+*.log
+shared_proto_db/
+.dart_tool/
+.pub-cache/
 
